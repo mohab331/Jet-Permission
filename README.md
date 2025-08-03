@@ -1,6 +1,6 @@
-# 📱 JetSnap – Jetpack Compose Camera & Permission POC
+# 📱 Jet Permission – Jetpack Compose Camera & Permission POC
 
-JetSnap is a simple Jetpack Compose app that showcases **runtime permission handling** and **camera access** in modern Android development using **Kotlin**.
+Jet Permission is a simple Jetpack Compose app that showcases **runtime permission handling** and **camera access** in modern Android development using **Kotlin**.
 
 This proof-of-concept (POC) is designed to help developers understand how to:
 - Request runtime permissions
